@@ -1,0 +1,5 @@
+{
+  "name": "SUPER Analisador de Vídeo",
+  "description": "Faça o upload de um vídeo para o SUPER Analisador para obter uma transcrição visual, um resumo e identificar os principais tópicos usando os recursos multimodais do Gemini. O aplicativo analisa quadros do seu vídeo para entender o conteúdo dele.",
+  "requestFramePermissions": []
+}
